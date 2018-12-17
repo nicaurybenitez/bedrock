@@ -31,6 +31,11 @@ Distributed Tracing
 
 -   [Jaeger](https://www.jaegertracing.io/) end to end distributed request tracing.
 
+Kaili tool for introspecting
+
+-   [Kaili](https://github.com/kiali/kiali/) tool for introspecting the Istio service mesh.
+
+
 ## Quick Start
 
 ### Deploy a Cluster
